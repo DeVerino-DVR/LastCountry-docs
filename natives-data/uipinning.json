@@ -1,0 +1,1 @@
+[{"name":"_UIPINNING_GET_TOOLTIP_TEXT","hash":"0x3138582E0A13BFAB","build":"1207","ret":"const char*","comment":"","research":null,"params":[{"name":"hash","type":"Hash","out":false}],"lua":"-- 0x3138582E0A13BFAB · build 1207\nlocal hash = 0\nlocal result = UipinningGetTooltipText(hash)"}]

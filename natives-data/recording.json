@@ -1,0 +1,1 @@
+[{"name":"REPLAY_PREVENT_RECORDING_THIS_FRAME","hash":"0xA8C44C13419634F2","build":"1207","ret":"void","comment":"nullsub, doesn't do anything\n\nOld name: _STOP_RECORDING_THIS_FRAME","research":null,"params":[],"lua":"-- 0xA8C44C13419634F2 · build 1207\nReplayPreventRecordingThisFrame()"}]
